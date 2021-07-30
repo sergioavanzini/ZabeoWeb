@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c76f039d-91a7-4d4c-85d9-d6df5e209e67" name="lhcp1010.webapps.net" url="http://lhcp1010.webapps.net">
+        <fileTransfer host="lhcp1010.webapps.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
